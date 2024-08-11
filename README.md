@@ -4,18 +4,18 @@
 This project is focused on analyzing customer churn in an ecommerce setting. The goal is to understand the factors that contribute to customer churn and to develop predictive models to identify customers who are likely to churn. The analysis is performed using a Jupyter Notebook and includes data exploration, feature engineering, and model development.
 
 ## File Description
-- FINAL - Ecommerce Customer Churn Analysis.ipynb: The main Jupyter notebook that contains the entire analysis, including:
+- `FINAL - Ecommerce Customer Churn Analysis.ipynb`: The main Jupyter notebook that contains the entire analysis, including:
   - Data Loading and Exploration: Initial inspection of the dataset, understanding data structure, and basic statistics.
   - Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
   - Exploratory Data Analysis (EDA): Visualizing data distributions, correlations, and patterns.
   - Feature Engineering: Creating new features to improve model performance.
   - Modeling: Developing and evaluating machine learning models to predict customer churn.
   - Conclusion: Summary of findings and recommendations.
-- confusion matrix - ecommerce churn.png: An image of a confusion matrix.
-- data_ecommerce_customer_churn.csv: Raw dataset used for the analysis and model training.
-- LightGBM_Churn_saved
+- `confusion matrix - ecommerce churn.png`: An image of a confusion matrix.
+- `data_ecommerce_customer_churn.csv`: Raw dataset used for the analysis and model training.
+- `LightGBM_Churn_saved`
   - Saved model for future use. Need 10 features to operate. find details of the features in either `.pptx` or `.ipynb` file.
-- PPT - Ecommerce Churn Analysis.pptx: Slides which contain the results of the analysis and model training process.
+- `PPT - Ecommerce Churn Analysis.pptx`: Slides which contain the results of the analysis and model training process.
 
 ## Installation
 To run the `.ipynb` file locally, ensure you have the following dependencies installed:
