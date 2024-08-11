@@ -11,11 +11,11 @@ This project is focused on analyzing customer churn in an ecommerce setting. The
   - Feature Engineering: Creating new features to improve model performance.
   - Modeling: Developing and evaluating machine learning models to predict customer churn.
   - Conclusion: Summary of findings and recommendations.
-- confusion matrix - ecommerce churn.png
-- data_ecommerce_customer_churn.csv
+- confusion matrix - ecommerce churn.png: An image of a confusion matrix.
+- data_ecommerce_customer_churn.csv: Raw dataset used for the analysis and model training.
 - LightGBM_Churn_saved
   - Saved model for future use. Need 10 features to operate. find details of the features in either `.pptx` or `.ipynb` file.
-- PPT - Ecommerce Churn Analysis.pptx
+- PPT - Ecommerce Churn Analysis.pptx: Slides which contain the results of the analysis and model training process.
 
 ## Installation
 To run the `.ipynb` file locally, ensure you have the following dependencies installed:
