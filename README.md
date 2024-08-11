@@ -14,7 +14,7 @@ This project is focused on analyzing customer churn in an ecommerce setting. The
 - confusion matrix - ecommerce churn.png
 - data_ecommerce_customer_churn.csv
 - LightGBM_Churn_saved
-  - Saved model for future use. Need 10 features to operate. find details of the features in `.pptx` file or `.ipynb` file.
+  - Saved model for future use. Need 10 features to operate. find details of the features in either `.pptx` or `.ipynb` file.
 - PPT - Ecommerce Churn Analysis.pptx
 
 ## Installation
