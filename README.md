@@ -18,7 +18,7 @@ This project is focused on analyzing customer churn in an ecommerce setting. The
 - PPT - Ecommerce Churn Analysis.pptx
 
 ## Installation
-To run the notebook locally, ensure you have the following dependencies installed:
+To run the `.ipynb` file locally, ensure you have the following dependencies installed:
 
 - Python 3.x
 - Jupyter Notebook
@@ -53,7 +53,7 @@ The dataset used in this analysis includes customer information and various feat
 - Churn: Churn flag.
 
 ## Results
-The analysis led to the development of a predictive model with the following performance metrics :
+The analysis led to the development of a LightGBM model with the following performance metrics :
 
 - mean F2 Score : 78.5%
 
